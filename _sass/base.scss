@@ -1,0 +1,10 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: Helvetica,Arial,sans-serif;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  font-size: 16px;
+}
