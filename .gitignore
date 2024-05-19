@@ -7,5 +7,5 @@ _site/
 vendor/
 
 # idea
-# .idea
+.idea
 
