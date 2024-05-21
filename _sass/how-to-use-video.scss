@@ -1,6 +1,18 @@
+.table-of-contents {
+  position: relative;
+  border: 1px dashed #d1d1d1;
+  float: right;
+  top: -80px;
+  padding: 4px 20px;
+}
+
 .how-to-use-video {
-  margin: 20px 0;
+  margin: 20px 0 40px 0;
   display: flex;
+}
+
+.video {
+  width: 560px
 }
 
 .video-info {
