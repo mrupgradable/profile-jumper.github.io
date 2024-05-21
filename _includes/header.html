@@ -1,4 +1,12 @@
 <header>
     <img src="{{ '/assets/image/brand/profile-jumper.png' | relative_url }}" alt="Profile Jumper Logo">
     <h1>Profile Jumper!</h1>
+
+    <nav>
+        <ul>
+            <li><a {% if page.title == "Home" %} class="active" {% endif %} href="/">Home</a></li>
+            <li><a {% if page.title == "How to use" %} class="active" {% endif %} href="/how-to-use">How to use</a></li>
+            <li><a {% if page.title == "About" %} class="active" {% endif %} href="/about">About</a></li>
+        </ul>
+    </nav>
 </header>
