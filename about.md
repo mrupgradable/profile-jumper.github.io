@@ -25,3 +25,16 @@ Now, all my profile links <i>are</i> in one place, No more bookmark battles just
         </div>
     </div>
 </section>
+
+<section class="compare">
+    <p>You could have all your profile links as bookmarks, but as you can see all these links (even if icons) take up space. Space that could be used for other bookmarks. Again have these all in one place.</p>
+
+    <div class="before-and-after">
+        <div class="before">
+            <img src="{{ '/assets/image/compare/browser-links-as-bookmarks.png' | relative_url }}" alt="Browser links as bookmarks">
+        </div>
+        <div class="after">
+            <img src="{{ '/assets/image/compare/profile-links-from-bookmarks.png' | relative_url }}" alt="Profile Links from bookmarks">
+        </div>
+    </div>
+</section>
