@@ -22,3 +22,27 @@ main {
   text-align: center;
   margin-bottom: 40px;
 }
+
+.together {
+  display: flex;
+}
+
+.large-button {
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  border: 2px solid #007bff;
+  padding: 16px 32px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.large-button:hover {
+  background-color: #0069d9;
+  border: 2px solid #0062cc;
+  color: white;
+}
