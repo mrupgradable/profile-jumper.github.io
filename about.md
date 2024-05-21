@@ -10,3 +10,18 @@ I was drowning in a sea of bookmarked browser folders and rogue links taking ove
 Then I thought, <i>"Stop wrangling with these wild links & why not, just heard them all into one place?"</i>.
 
 Now, all my profile links <i>are</i> in one place, No more bookmark battles just space for the important stuff - like cat videos and recipes I’ll never cook.
+
+## Go from this, to this!
+
+<section class="compare">
+    <p>Instead of having all profile links in a bookmark folder - have these frequently used profile links in one place.</p>
+
+    <div class="before-and-after">
+        <div class="before">
+            <img src="{{ '/assets/image/compare/browser-links-in-bookmark-folder.png' | relative_url }}" alt="Bookmarks in browser folders">
+        </div>
+        <div class="after">
+            <img src="{{ '/assets/image/compare/profile-links-from-bookmark-folder.png' | relative_url }}" alt="Profile Links from bookmark folder">
+        </div>
+    </div>
+</section>
