@@ -56,13 +56,18 @@ main_view: "full"
 
 <section class="centered">
     <h2>Links Scattered to Now Organised</h2>
-    <p>Sure, you could have all your profile links as bookmarks, but they take up space...<br/> Space that could be used for more important things, like cat videos, memes and investment advice. Keep them all in one place and save your sanity!</p>
+    <p>Sure, you could have all your profile links as bookmarks, but they take up space...<br/> Space that could be used for more important things, like cat videos, memes and how to live the laptop lifestyle by making money selling courses online. Keep them all in one place!</p>
 
     <div class="before-and-after">
-        <div class="before">
+        <div class="compare-image">
             <img src="{{ '/assets/image/compare/browser-links-as-bookmarks.png' | relative_url }}" alt="Browser links as bookmarks">
         </div>
-        <div class="after">
+
+        <div class="compare-arrow">
+            <img src="{{ '/assets/image/compare/from-this-to-that-arrow.png' | relative_url }}" alt="From this to that">
+        </div>
+
+        <div class="compare-image">
             <img src="{{ '/assets/image/compare/profile-links-from-bookmarks.png' | relative_url }}" alt="Profile Links from bookmarks">
         </div>
     </div>
