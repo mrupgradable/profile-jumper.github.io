@@ -54,6 +54,8 @@ main {
   background-color: #0069d9;
   border: 2px solid #0062cc;
   color: white;
+  box-shadow: 0 0 8px rgba(35, 173, 278, 1);
+  transition: all 200ms ease-out;
 }
 
 .large-button svg {
