@@ -36,8 +36,8 @@ main_view: "full"
 </section>
 
 <section class="centered">
-    <h2>Folder bookmarks to every profile in one place</h2>
-    <p>Instead of having all profile links in a bookmark folder - have these frequently used profile links in one place.</p>
+    <h2>Foldered Bookmarks to Profile Links</h2>
+    <p>Why clutter your bookmarks with profile links?<br/> Put your frequently used links in one place - because even your browser deserves to be organized for once!</p>
 
     <div class="before-and-after">
         <div class="before">
@@ -50,8 +50,8 @@ main_view: "full"
 </section>
 
 <section class="centered">
-    <h2>Scattered links to organised links</h2>
-    <p>You could have all your profile links as bookmarks, but as you can see all these links (even if icons) take up space. Space that could be used for other bookmarks. Again have these all in one place.</p>
+    <h2>Links Scattered to Now Organised</h2>
+    <p>Sure, you could have all your profile links as bookmarks, but they take up space...<br/> Space that could be used for more important things, like cat videos, memes and investment advice. Keep them all in one place and save your sanity!</p>
 
     <div class="before-and-after">
         <div class="before">
