@@ -40,10 +40,15 @@ main_view: "full"
     <p>Why clutter your bookmarks with profile links?<br/> Put your frequently used links in one place - because even your browser deserves to be organized for once!</p>
 
     <div class="before-and-after">
-        <div class="before">
+        <div class="compare-image">
             <img src="{{ '/assets/image/compare/browser-links-in-bookmark-folder.png' | relative_url }}" alt="Bookmarks in browser folders">
         </div>
-        <div class="after">
+
+        <div class="compare-arrow">
+            <img src="{{ '/assets/image/compare/from-this-to-that-arrow.png' | relative_url }}" alt="From this to that">
+        </div>
+
+        <div class="compare-image">
             <img src="{{ '/assets/image/compare/profile-links-from-bookmark-folder.png' | relative_url }}" alt="Profile Links from bookmark folder">
         </div>
     </div>
