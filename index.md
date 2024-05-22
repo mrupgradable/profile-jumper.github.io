@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+main_view: "full"
 ---
 
 <section class="centered">
