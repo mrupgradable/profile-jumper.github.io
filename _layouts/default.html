@@ -6,7 +6,16 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
+
+  {% include analytics.html %}
+
   <body>
-    {{ content }}
+    {% include header.html %}
+
+    <main {% if page.main_view %} class="{{ page.main_view }}" {% endif %} >
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
   </body>
 </html>

@@ -1,0 +1,11 @@
+<section class="how-to-use-video">
+    <div class="video">
+        <iframe width="560" height="315" src="{{ include.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="video-info">
+        <h2><span id="{{ include.title | replace: " ", "-" | upcase }}">{{ include.title}}</span></h2>
+        <p>{{ include.description}}</p>
+    </div>
+
+</section>

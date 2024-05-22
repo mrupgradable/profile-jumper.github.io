@@ -1,0 +1,58 @@
+header {
+  padding: 10px 5px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1px #0000001f;
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+}
+
+.branding img {
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  margin: 0 0 0 40px;
+}
+
+.branding h1 {
+  padding: 0 20px;
+}
+
+nav {
+  margin-left: 40px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: #767676;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+  color: #000000;
+}
+
+nav .active {
+  color: #000000;
+}
+
+.top-action {
+  flex: auto;
+  padding-right: 40px;
+}

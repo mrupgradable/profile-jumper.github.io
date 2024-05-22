@@ -6,5 +6,65 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 0 40px;
+  flex: 1;
+}
+
+p {
+  line-height: 1.6;
+}
+
+section {
+  margin: 60px 0 50px 0;
+}
+
+.full {
+  margin: 0;
+}
+
+.centered {
+  text-align: center;
+}
+
+.button-wrapper-top {
+  float: right;
+  width: 260px;
+}
+
+.large-button {
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  border: 2px solid #007bff;
+  padding: 16px 32px;
+  text-decoration: none;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.large-button:hover {
+  background-color: #0069d9;
+  border: 2px solid #0062cc;
+  color: white;
+  box-shadow: 0 0 8px rgba(35, 173, 278, 1);
+  transition: all 200ms ease-out;
+}
+
+.large-button svg {
+  padding-right: 5px;
 }

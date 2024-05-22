@@ -1,0 +1,55 @@
+.mission-header {
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  margin: 30px 0;
+  color: #000000;
+}
+
+.mission-header-highlight {
+  color: #367532;
+}
+
+.together {
+  display: flex;
+}
+
+.demo-present {
+  width: 60%;
+}
+
+.demo-present img {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.demo-action {
+  width: 40%;
+  padding: 20px;
+}
+
+.button-wrapper-main {
+  padding-left: 100px;
+  float: left;
+  width: 260px;
+}
+
+.before-and-after {
+  padding: 5px;
+  display: inline-flex;
+}
+
+.compare-image {
+  margin: 0 20px;
+}
+
+.compare-image img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.compare-arrow {
+  padding-top: 100px;
+}
+
+
