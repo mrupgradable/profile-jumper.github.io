@@ -34,3 +34,31 @@ main_view: "full"
     </p>
     <iframe width="853" height="505" src="https://www.youtube.com/embed/ohg4J0rqEv8?si=v1RMciY2ZAIcAOds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
+
+<section class="centered">
+    <h2>Folder bookmarks to every profile in one place</h2>
+    <p>Instead of having all profile links in a bookmark folder - have these frequently used profile links in one place.</p>
+
+    <div class="before-and-after">
+        <div class="before">
+            <img src="{{ '/assets/image/compare/browser-links-in-bookmark-folder.png' | relative_url }}" alt="Bookmarks in browser folders">
+        </div>
+        <div class="after">
+            <img src="{{ '/assets/image/compare/profile-links-from-bookmark-folder.png' | relative_url }}" alt="Profile Links from bookmark folder">
+        </div>
+    </div>
+</section>
+
+<section class="centered">
+    <h2>Scattered links to organised links</h2>
+    <p>You could have all your profile links as bookmarks, but as you can see all these links (even if icons) take up space. Space that could be used for other bookmarks. Again have these all in one place.</p>
+
+    <div class="before-and-after">
+        <div class="before">
+            <img src="{{ '/assets/image/compare/browser-links-as-bookmarks.png' | relative_url }}" alt="Browser links as bookmarks">
+        </div>
+        <div class="after">
+            <img src="{{ '/assets/image/compare/profile-links-from-bookmarks.png' | relative_url }}" alt="Profile Links from bookmarks">
+        </div>
+    </div>
+</section>
