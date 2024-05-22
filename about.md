@@ -13,7 +13,7 @@ Then I thought, <i>"Stop wrangling with these wild links! Why not, just heard th
 Now, all my profile links are in one place, No more bookmark battles just space for the important stuff - like cat videos and recipes I’ll never cook.
 
 ## Is this Free?
-* 100% Free, Open Source and you'll never be charged
+* Free, Open Source and you'll never be charged 💯
 * For me, I needed something - so I created it!
 * Personally I don't like having multiple folders for frequently used links
 * I wanted something that could have different links for different browser profiles (personal vs business)
