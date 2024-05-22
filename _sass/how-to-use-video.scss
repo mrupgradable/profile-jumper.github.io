@@ -1,9 +1,10 @@
 .table-of-contents {
-  position: relative;
+  position: fixed;
   border: 1px dashed #d1d1d1;
-  float: right;
-  top: -80px;
+  right: 20px;
+  top: 140px;
   padding: 4px 20px;
+  background: rgba(255, 255, 255, .9) ;
 }
 
 .how-to-use-video {
@@ -18,4 +19,5 @@
 .video-info {
   padding: 20px;
   float: right;
+  width: 50%;
 }
