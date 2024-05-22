@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "How to use"
+action_button: true
 ---
 
 <div class="header-with-toc">

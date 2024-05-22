@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+action_button: true
 ---
 
 # About

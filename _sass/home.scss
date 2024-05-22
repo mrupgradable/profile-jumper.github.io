@@ -10,6 +10,10 @@
   color: #367532;
 }
 
+.together {
+  display: flex;
+}
+
 .demo-present {
   width: 60%;
 }
@@ -22,4 +26,10 @@
 .demo-action {
   width: 40%;
   padding: 20px;
+}
+
+.button-wrapper-main {
+  padding-left: 100px;
+  float: left;
+  width: 260px;
 }
