@@ -56,7 +56,7 @@ main_view: "full"
 
 <section class="centered">
     <h2>Links Scattered to Now Organised</h2>
-    <p>Sure, you could have all your profile links as bookmarks, but they take up space...<br/> Space that could be used for more important things, like cat videos, memes and how to live the laptop lifestyle by making money selling courses online. Keep them all in one place!</p>
+    <p>Sure, you could have all your profile links as bookmarks, but they take up space...<br/> Space that could be used for more important things, like cat videos, memes and how to live the laptop lifestyle by making money selling courses online.<br/> Keep them all in one place!</p>
 
     <div class="before-and-after">
         <div class="compare-image">
