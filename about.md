@@ -23,5 +23,6 @@ Send me a <a href="http://x.com/share?text=Thanks%21&hashtags=ProfileJumper" tar
 Knowing that someone else finds this useful is happiness squared.
 
 ## Privacy
-Just a word on privacy, no personal data, links or anything else is captured or recorded. Even my ex couldn't spy on you with this!<br/>
-This too is confirmed on the Chrome Web Store (see Privacy sections).
+Just a word on privacy, for the browser extension; none of your personal data, your profile links or anything else is captured or recorded. Even my ex couldn't spy on you with this!<br/>
+This too is confirmed on the Chrome Web Store (see Privacy sections).<br/>
+However, I do monitor inbound links to this website so that I can improve information provided here.
