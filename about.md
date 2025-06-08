@@ -23,8 +23,9 @@ Send me a <a href="http://x.com/share?text=Thanks%21&hashtags=ProfileJumper" tar
 Knowing that someone else finds this useful is happiness squared.
 
 Support this project
+
 <a href="https://coff.ee/profilejumper" target="_blank">
-<img src="artwork/support/by-me-a-coffee.png" alt="Buy me a coffee" width="200"/>
+<img src="{{ '/assets/image/support/by-me-a-coffee.png' | relative_url }}" alt="Buy me a coffee" width="200">
 </a>
 
 ## Privacy
