@@ -17,10 +17,15 @@ Now, all my profile links are in one place, No more bookmark battles just space 
 * I wanted something that could have different links for different browser profiles (personal vs work)
 
 ## Want to say Thank You?
-Sure, just a <i>"Thank You"</i> would be nice! (No need to send money or buy coffee).
+Sure, just a <i>"Thank You"</i> would be nice!
 
 Send me a <a href="http://x.com/share?text=Thanks%21&hashtags=ProfileJumper" target="_blank" rel="noopener noreferrer">Thanks! on X</a> with the hashtag #ProfileJumper (or any other choice words) - this would make me most happy and grateful.<br/>
 Knowing that someone else finds this useful is happiness squared.
+
+Support this project
+<a href="https://coff.ee/profilejumper" target="_blank">
+<img src="artwork/support/by-me-a-coffee.png" alt="Buy me a coffee" width="200"/>
+</a>
 
 ## Privacy
 Just a word on privacy, for the browser extension; none of your personal data, your profile links or anything else is captured or recorded. Even my ex couldn't spy on you with this!<br/>
